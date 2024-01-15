@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HundirLaFlota2", "HundirLaFlota2.csproj", "{CACA976A-89A7-4036-9802-40C2FDE25FD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CACA976A-89A7-4036-9802-40C2FDE25FD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CACA976A-89A7-4036-9802-40C2FDE25FD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CACA976A-89A7-4036-9802-40C2FDE25FD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CACA976A-89A7-4036-9802-40C2FDE25FD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {564F02CF-994B-4112-A6D9-629448031B39}
+	EndGlobalSection
+EndGlobal
